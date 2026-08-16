@@ -47,7 +47,7 @@ Tools I use
 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadamjaddev-prog&show_icons=true&theme=dark&hide_border=true" alt="Hammad's GitHub Stats" />
+  <img src="https://vercel.app" alt="GitHub Stats" />
 </div>
 
 Thanks, for stopping
