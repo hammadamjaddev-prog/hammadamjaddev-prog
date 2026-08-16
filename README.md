@@ -46,7 +46,9 @@ Tools I use
 
 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hammadamjaddev-prog&show_icons=true&theme=dark&hide_border=true" /> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadamjaddev-prog&show_icons=true&theme=dark&hide_border=true" alt="Hammad's GitHub Stats" />
+</div>
 
 Thanks, for stopping
 
