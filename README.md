@@ -42,22 +42,7 @@ I am mainly trying to get better at building things of just watching tutorials. 
 
 Tools I use
 
-<div align="left">
-  <!-- Languages -->
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Lua" />
-  
-  <!-- Game Dev & App Dev (Frameworks/Tech) -->
-  <img src="https://shields.io" alt="Godot" />
-  <img src="https://shields.io" alt="Flutter" />
-  
-  <!-- Data & Tools -->
-  <img src="https://shields.io" alt="NumPy" />
-  <img src="https://shields.io" alt="Pandas" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="VS Code" />
-</div>
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=studio-code&logoColor=white" /> </p>
 
 
 Thanks, for stopping
