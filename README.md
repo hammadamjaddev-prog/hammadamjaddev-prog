@@ -71,17 +71,20 @@ Building tools, automation scripts, APIs, and experimental projects.
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub
+
+I'm actively building projects and learning through hands-on development.
+
+- 🐍 Python & Data Science
+- 🎮 Game Development
+- ⛏️ Minecraft Development
+- 🧠 Machine Learning
+- 🗄️ Databases & Backend Development
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hammadamjaddev-prog&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Hammad's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadamjaddev-prog&layout=compact&theme=github_dark&hide_border=true"
-    alt="Hammad's Top Languages"
-  />
+  <a href="https://github.com/hammadamjaddev-prog?tab=repositories">
+    <img src="https://img.shields.io/badge/View_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Projects">
+  </a>
 </p>
 
 ---
