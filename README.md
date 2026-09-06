@@ -74,8 +74,14 @@ Building tools, automation scripts, APIs, and experimental projects.
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadamjaddev-prog&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadamjaddev-prog&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hammadamjaddev-prog&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Hammad's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadamjaddev-prog&layout=compact&theme=github_dark&hide_border=true"
+    alt="Hammad's Top Languages"
+  />
 </p>
 
 ---
