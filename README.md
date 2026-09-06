@@ -92,7 +92,6 @@ I'm actively building projects and learning through hands-on development.
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hammad-amjad-2b53a233b/)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat-square\&logo=mastodon\&logoColor=white)](https://mastodon.social/@Hammad%20Amjad)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:hammadamjaddev@gmail.com)
 
 ---
